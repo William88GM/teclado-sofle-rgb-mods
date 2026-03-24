@@ -18,3 +18,5 @@ cada vez que se conecta o desconeta algo, no tiene que tener corriente el teclad
 hay que desconectar el usb
 
 a veces el EEPROM_RESET=yes no funciona, entonces hay que usar la tecla esc en la capa de adjust (uppper y lower presionadas al mismo tiempo y luego darle a esc)
+
+ruta del teclado C:\Users\willi\qmk_firmware\keyboards\sofle\keymaps\rgb_default
